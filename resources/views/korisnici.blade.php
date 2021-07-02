@@ -16,7 +16,7 @@
 
 <body>
     <div class="d-flex p-2 justify-content-center ">
-        <table class="table table-danger">
+        <table class="table table-striped">
             <thead class="thead-dark">
                 <tr>
                     <th>Ime i prezime</th>

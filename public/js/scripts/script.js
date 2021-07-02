@@ -10,6 +10,7 @@ $(document).ready(function () {
             },
             success: function (response) {
                 alert(response.message);
+                window.location.href = "http://127.0.0.1:8000/letovi";
             },
             error: function(response) {
                 alert('Let je vec obrisan!');
